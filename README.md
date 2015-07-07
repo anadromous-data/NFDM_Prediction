@@ -4,23 +4,12 @@
 
 ### What is this repository for? ###
 
-* Ruby 2.1.2
+* A predictive modeling project that would project a 12 month spread of NFDM produced in the USA based of the NASS index. 
+* 
 
+*Contributors
+Kiran Rama, Stuart Illson, Michael Hittle
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
