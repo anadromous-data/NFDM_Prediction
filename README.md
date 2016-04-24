@@ -3,7 +3,7 @@
 
 ### What is this repository for? ###
 
-* A predictive modeling project that would project a 12 month spread of Cheese produced in the USA based of the NASS index. 
+* A predictive modeling project that would project a 12 month spread of Cheese produced in the USA based off of the NASS index. 
 
 ### Contributors ###
 * Kiran Rama, Stuart Illson, Michael Hittle
